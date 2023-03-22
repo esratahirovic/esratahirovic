@@ -2,7 +2,7 @@
 
 :sparkler: I'm interested in Data Science.
 
-You can find me on LinkedIn :point_right: https://www.linkedin.com/in/esra-albayrak-özdeş-351229a0/
+You can find me on LinkedIn :point_right: https://www.linkedin.com/in/esra-albayrak-özdeş/
 
 <!--
 **esratahirovic/esratahirovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
