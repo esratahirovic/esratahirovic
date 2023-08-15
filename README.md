@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:sparkler: I'm interested in Data Science, Machine Learning, Deep Learninig.
+:sparkler: I'm interested in Data Science, Machine Learning, Deep Learning.
 
 You can find me on LinkedIn :point_right: https://www.linkedin.com/in/esra-albayrak-özdeş/
 
